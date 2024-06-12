@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/even_or_odd.dir/program.cpp.o -o even_or_odd 

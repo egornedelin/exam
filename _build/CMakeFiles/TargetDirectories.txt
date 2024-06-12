@@ -1,0 +1,3 @@
+/home/egoriytrep/exam/_build/CMakeFiles/even_or_odd.dir
+/home/egoriytrep/exam/_build/CMakeFiles/edit_cache.dir
+/home/egoriytrep/exam/_build/CMakeFiles/rebuild_cache.dir
